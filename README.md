@@ -1,4 +1,4 @@
 # demo-repo
 Demo Repository
 <br>
-Author-Nikhita
+Author-Nikhita (demo)
